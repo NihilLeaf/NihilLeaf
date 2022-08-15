@@ -2,7 +2,7 @@
 
 * 🧠 - Em busca de ser um Polímata
 
-* 💻 - Estudando Data Science with Python
+* 💻 - Aspirante a FullStack
 
 * 😎 - ele/dele
 <div>
