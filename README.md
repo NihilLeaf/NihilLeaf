@@ -1,6 +1,6 @@
 ## Hey! Thiago, mas pode me chamar de NihilLeaf.
 
-* 🧠 - Apaixonado pelo conhceimento, aspirante a polímata e políglota.
+* 🧠 - Apaixonado pelo conhecimento, aspirante a polímata e políglota.
 * 🕵🏾‍♂️ - Curiosidade, Lealdade e Liberdade são valores a serem prezados.
 * 💻 - Desenvolvedor FullStack
 <div>
