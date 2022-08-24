@@ -2,7 +2,7 @@
 
 * 🧠 - Em busca de ser um Polímata
 
-* 💻 - Aspirante a FullStack
+* 💻 - Desenvolvedor FullStack
 
 * 😎 - ele/dele
 <div>
