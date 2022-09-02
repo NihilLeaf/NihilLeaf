@@ -4,6 +4,6 @@
 * 🕵🏾‍♂️ - Curiosidade, Lealdade e Liberdade são valores a serem prezados.
 * 💻 - Desenvolvedor FullStack
 <div>
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=NihilLeaf&theme=gotham"/>
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihilLeaf&theme=gotham"/>
+  <img height="300cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=NihilLeaf&theme=gotham"/>
+  <img height="300cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihilLeaf&theme=gotham"/>
 </div>
