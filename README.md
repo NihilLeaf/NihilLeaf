@@ -12,9 +12,7 @@
 
 ## Site:
 
-<div style="display: inline_block"><br>
-  <a href="http://nihilleaf.tech"></a>
-</div>
+<a href="http://nihilleaf.tech"></a>
 
 ##
 
