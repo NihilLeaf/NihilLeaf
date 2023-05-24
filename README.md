@@ -1,4 +1,4 @@
-## Hey! Thiago, mas pode me chamar de NihilLeaf.
+## Hey! Thiago aqui.
 
 * 🧠 - Apaixonado pelo conhecimento, aspirante a polímata e políglota.
 * 🕵🏾‍♂️ - Curiosidade, Lealdade e Liberdade são valores a serem prezados.
