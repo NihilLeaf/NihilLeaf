@@ -1,7 +1,6 @@
 ## Hey! Thiago aqui.
 
 * 🧠 - Apaixonado pelo conhecimento, aspirante a polímata e políglota.
-* 🕵🏾‍♂️ - Curiosidade, Lealdade e Liberdade são valores a serem prezados.
 * 💻 - Desenvolvedor FullStack
 <div>
   <img height="300cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=NihilLeaf&theme=gotham"/>
