@@ -1,7 +1,7 @@
 ## Hey! Thiago aqui.
 
 * 🧠 - Apaixonado pelo conhecimento, aspirante a polímata e políglota.
-* 💻 - Desenvolvedor FullStack
+* 💻 - Desenvolvedor Full Stack
 <div>
   <img height="300cm" width="300cm" src="https://github-readme-stats.vercel.app/api?username=NihilLeaf&theme=gotham"/>
   <img height="300cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihilLeaf&theme=gotham"/>
